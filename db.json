@@ -1,0 +1,34 @@
+{
+    "announcement": [
+        {
+            "title": "Rock concert",
+            "description": "08.04, Lviv, concert",
+            "date": "23.03.2022"
+        },
+        {
+            "title": "Wine festival",
+            "description": "10.04, Lviv, festival",
+            "date": "27.02.2022"
+        },
+        {
+            "title": "Rock symphony",
+            "description": "15.05, Lviv, concert",
+            "date": "23.03.2022"
+        },
+        {
+            "title": "Comedy show",
+            "description": "11.04, Lviv, show",
+            "date": "02.03.2022"
+        },
+        {
+            "title": "Football match",
+            "description": "04.06, Lviv - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "date": "20.03.2022, sport event"
+        },
+        {
+            "title": "Histrionics",
+            "description": "03.05, Lviv - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "date": "01.02.2022, show"
+        }
+    ]
+}
